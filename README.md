@@ -1,7 +1,7 @@
 # dyop
 Legacy C code (K&amp;C) for Dynamic Order-preserving partitioning.
 
-It may stil compile  in a compiler with K&C mode, like this one 
+Written in 1986, It may stil compile  in a compiler with K&C mode, like this one 
 https://docs.oracle.com/cd/E19205-01/819-5265/bjaay/index.html.
 
 The file system is the one reported in: 
